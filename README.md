@@ -8,7 +8,7 @@ Set up Elastic Stack for Security Information and Event Management (SIEM) using 
 
 - Successfully set up and configured Elastic Stack SIEM in a home lab environment
 - Proficiency in deploying a Kali Linux VM
-- Configre elastic agents for log collection
+- Configure elastic agents for log collection
 - Forwarding data to the SIEM for effective security event monitoring
 - Developed a custom dashboard to visualize security events
 - Successfully created and tested alert rules for detecting specific security events
