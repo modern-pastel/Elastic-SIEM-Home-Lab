@@ -58,4 +58,6 @@ Set up Elastic Stack for Security Information and Event Management (SIEM) using 
   - Finally, click the “Create and enable rule” button to create the alert.
 ![image](https://github.com/user-attachments/assets/3d017875-4a62-41be-ad8b-999b8c2a37ed)
 
-This SIEM monitors logs for Nmap scan events. If an Nmap scan event is detected, the alert will be triggered and an email will be sent to me.
+This SIEM monitors logs for Nmap scan events. If an Nmap scan event is detected, the alert will be triggered and an email will be sent to me. 
+
+This hands-on project provided valuable experience in deploying and configuring a SIEM solution using Elastic Stack. By setting up a Kali Linux VM, configuring log collection, analyzing security events, and implementing alerting mechanisms, I gained practical insight into real-world security monitoring and threat detection. This lab reinforced my ability to work with SIEM tools, visualize security data, and create actionable alerts—key skills for cybersecurity and IT security roles. Moving forward, I aim to further refine my expertise by exploring advanced threat-hunting techniques and integrating additional security data sources into Elastic SIEM.
